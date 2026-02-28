@@ -25,7 +25,7 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     min-height: 100vh;
-    color: #333;
+    color: #ffffff;
 }
 
 /* Navbar Styling */
@@ -80,7 +80,7 @@ body {
 /* Form Styling */
 .form-label {
     font-weight: 600;
-    color: #333;
+    color: #ffffff;
     margin-bottom: 0.8rem;
     font-size: 0.95rem;
 }
@@ -99,7 +99,7 @@ body {
 }
 
 .form-control::placeholder {
-    color: #999;
+    color: #ffffff;
     font-style: italic;
 }
 
@@ -108,7 +108,7 @@ body {
     display: block;
     margin-top: 0.4rem;
     font-size: 0.85rem;
-    color: #666;
+    color: #ffffff;
 }
 
 /* Button Styling */
@@ -151,16 +151,18 @@ h1 {
     font-weight: 700;
     letter-spacing: 1px;
     margin-bottom: 1.5rem;
+    color: #ffffff;
 }
 
 h5 {
     font-weight: 600;
     letter-spacing: 0.5px;
+    color: #ffffff;
 }
 
 .lead {
     font-size: 1.1rem;
-    color: #666;
+    color: #ffffff;
 }
 
 /* Text Utilities */
@@ -251,7 +253,7 @@ h5 {
 /* Accordion Styling */
 .accordion-button {
     font-weight: 600;
-    color: #333;
+    color: #ffffff;
     border-radius: var(--border-radius);
     background-color: #f8f9fa;
 }
